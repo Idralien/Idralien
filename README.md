@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hey There! I'm Brent Santschi
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtZ3B0eG1xZ3p0b2F5d2J3Y3Z1eGZ2Y2RwYzZ5d2R5Z2l2d3R5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNnNWk3Nm43NnMyMGlxeWhxN3VtYjhwa3h4c2piMml5cnhjenRtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 (Yes, that's a coding wizard... because programming is basically magic �♂️✨)
 
 🚀 About Me
