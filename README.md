@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Idralien/Idralien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hey There! I'm Brent Santschi
+## 👋 Hey There! I'm Brent Santschi
 ![Team Coding GIF by CodeRower](https://github.com/user-attachments/assets/88cf3d96-6ea8-4560-a246-b7a62cf318cf)
 (Yes, that's a coding wizard... because programming is basically magic �♂️✨)
 
