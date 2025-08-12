@@ -15,30 +15,14 @@
 -  🔭 Currently focused on: Web Development and Python
 -  🌱 Always eager to learn new things (currently diving into Creating engaging websites)
 -  ⚡ Fun fact: My personal goal is to learn skills in the Cybersecurity part of IT. Defending against malicious code!
+-  ➕ Extra: A good deal of experience in video editting!
 
 ---
 
 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,ts,js,svelte,tailwind,lua,html,css,nodejs,electron,cloudflare,arch,neovim,discord,c,vercel" />
-  </a>
-</p>
-💻 Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-
-🌐 Web Dev
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-
-🧰 Tools
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+-  Languages:
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,clion,py,tailwind,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 📈 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
