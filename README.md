@@ -30,6 +30,9 @@
 ### Programs:
 [![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows&perline=10)](https://skillicons.dev)
 
+### Extra:
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr&perline=10)](https://skillicons.dev)
+
 📈 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
 
