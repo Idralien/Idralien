@@ -19,6 +19,12 @@
 ---
 
 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,ts,js,svelte,tailwind,lua,html,css,nodejs,electron,cloudflare,arch,neovim,discord,c,vercel" />
+  </a>
+</p>
 💻 Languages
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
