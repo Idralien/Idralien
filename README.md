@@ -33,29 +33,17 @@
 ### Extra:
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr&perline=10)](https://skillicons.dev)
 
-📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
+## 📫 Let's Connect!
+📷 Instagram: https://www.instagram.com/brent_santschi/
 
-(Disclaimer: These stats may or may not be inflated by my countless "Hello World" projects.)
+🔊 Discord: b_santschi
 
-🤝 Current Projects
-🔧 Project X: A revolutionary app that does... something cool (TBD).
-
-🎮 Game Dev Attempt #42: Because why not?
-
-� Random Scripts: Because automation is life.
-
-📫 Let's Connect!
-💼 LinkedIn
-
-🐦 Twitter (I mostly retweet memes and tech news)
-
-📧 Email: brent@example.com (Yes, I still use email like a grandpa)
+📧 Email: brentsantschi@gmail.com
 
 � Final Words
-"Code never lies, comments sometimes do." — Some Wise Developer
+All my projects have some explanations on what it is about!
 
-Thanks for stopping by! If you have any advice, memes, or cat pictures, feel free to share. �🚀
+Thanks for stopping by! Feel free to reach out 🖖
 
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4Y2VtZ3BqY2Z6Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif
 
