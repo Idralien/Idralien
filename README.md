@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,nodejs,react,tailwind&perline=10)](https://skillicons.dev)
 
 ### Programs:
-[![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows&perline=10)](https://skillicons.dev)
 
 📈 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
