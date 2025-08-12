@@ -21,8 +21,10 @@
 
 🛠️ Tech Stack
 
--  Languages:
-- [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,clion,py,tailwind,react,vue,flutter&perline=10)](https://skillicons.dev)
+<div class="language">
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,clion,py,tailwind,react,vue,flutter&perline=10)](https://skillicons.dev)
+</div>
 
 📈 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
