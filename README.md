@@ -22,10 +22,10 @@
 ## 🛠️ Tech Stack
 
 ### Coding Languages:
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py&perline=10)](https://skillicons.dev)
 
 ### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,nodejs,react,tailwind,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,nodejs,react,tailwind&perline=10)](https://skillicons.dev)
 
 ### Programs:
 [![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows,flutter&perline=10)](https://skillicons.dev)
