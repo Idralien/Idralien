@@ -41,9 +41,9 @@
 -  🔊 Discord: b_santschi
 -  📧 Email: brentsantschi@gmail.com
 
-####� Final Words:
+� Final Words:
 All my projects have some explanations on what it is about!
 
 Thanks for stopping by! Feel free to reach out 🖖
 
-####⚡ Made with ❤️, and probably too much enthusiasm.
+⚡ Made with ❤️, and probably too much enthusiasm.
