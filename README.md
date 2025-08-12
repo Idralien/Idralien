@@ -8,7 +8,11 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrcmM1ZWluaTQ3b2lhNHJ0NXY1c2w2bWh3ajh2ejB5ZnprbTgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif">
 </div>
 
-🚀 About Me
+<h3 align="center"> There is always a bug hiding somewhere! </h3>
+
+---
+
+##🚀 About Me
 I'm a junior programmer with the enthusiasm of a kid in a candy store (if the candy was code)! �🍭
 
 🔭 Currently focused on: Web Development, Python, C, and C++
