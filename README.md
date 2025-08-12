@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
--  🎓 Current knowledge: C, Shell and basics in C++
+-  🎓 Current most knowledge: C, Shell and C++
 -  🔭 Currently focused on: Web Development and Python
 -  🌱 Always eager to learn new things (currently diving into Creating engaging websites)
 -  ⚡ Fun fact: My personal goal is to learn skills in the Cybersecurity part of IT. Defending against malicious code!
@@ -21,8 +21,14 @@
 
 ## 🛠️ Tech Stack
 
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,clion,py,tailwind,react,vue,flutter&perline=10)](https://skillicons.dev)
+### Coding Languages:
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,flutter&perline=10)](https://skillicons.dev)
+
+### Web Development:
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,nodejs,react,tailwind,flutter&perline=10)](https://skillicons.dev)
+
+### Programs:
+[![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows,flutter&perline=10)](https://skillicons.dev)
 
 📈 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical
