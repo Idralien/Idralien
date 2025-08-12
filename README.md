@@ -11,10 +11,10 @@
 ---
 
 ## 🚀 About Me
-🎓 Current knowledge: C, Shell and basics in C++
-🔭 Currently focused on: Web Development and Python
-🌱 Always eager to learn new things (currently diving into Creating engaging websites)
-⚡ Fun fact: My personal goal is to learn skills in the Cybersecurity part of IT. Defending against malicious code!
+-  🎓 Current knowledge: C, Shell and basics in C++
+-  🔭 Currently focused on: Web Development and Python
+-  🌱 Always eager to learn new things (currently diving into Creating engaging websites)
+-  ⚡ Fun fact: My personal goal is to learn skills in the Cybersecurity part of IT. Defending against malicious code!
 
 ---
 
