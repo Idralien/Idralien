@@ -1,5 +1,3 @@
-
-
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Brent Santschi!</h1>
 
@@ -12,14 +10,13 @@
 
 ---
 
-##🚀 About Me
-I'm a junior programmer with the enthusiasm of a kid in a candy store (if the candy was code)! �🍭
+## 🚀 About Me
+🎓 Current knowledge: C, Shell and basics in C++
+🔭 Currently focused on: Web Development and Python
+🌱 Always eager to learn new things (currently diving into Creating engaging websites)
+⚡ Fun fact: My personal goal is to learn skills in the Cybersecurity part of IT. Defending against malicious code!
 
-🔭 Currently focused on: Web Development, Python, C, and C++
-
-🌱 Always eager to learn new things (currently diving into [insert latest tech you're learning])
-
-⚡ Fun fact: I can probably break your code just by looking at it... but I promise I'll help fix it too!
+---
 
 🛠️ Tech Stack
 💻 Languages
