@@ -4,9 +4,9 @@
 <h1 align="center">👋 Hey there, I'm Brent Santschi!</h1>
 
 <!-- Coding Gif -->
-<p align="center"> 
+<div align="center"> 
 <img src="![Team Coding GIF by CodeRower](https://github.com/user-attachments/assets/88cf3d96-6ea8-4560-a246-b7a62cf318cf)" />
-</p>
+</div>
 
 🚀 About Me
 I'm a junior programmer with the enthusiasm of a kid in a candy store (if the candy was code)! �🍭
