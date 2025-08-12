@@ -5,7 +5,7 @@
 
 <!-- Coding Gif -->
 <div align="center"> 
-![Team Coding GIF by CodeRower](https://github.com/user-attachments/assets/88cf3d96-6ea8-4560-a246-b7a62cf318cf)"
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrcmM1ZWluaTQ3b2lhNHJ0NXY1c2w2bWh3ajh2ejB5ZnprbTgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif">
 </div>
 
 🚀 About Me
