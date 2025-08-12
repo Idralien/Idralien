@@ -33,22 +33,17 @@
 ### Extra:
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr&perline=10)](https://skillicons.dev)
 
+---
+
 ## 📫 Let's Connect!
-📷 Instagram: https://www.instagram.com/brent_santschi/
 
-🔊 Discord: b_santschi
+-  📷 Instagram: https://www.instagram.com/brent_santschi/
+-  🔊 Discord: b_santschi
+-  📧 Email: brentsantschi@gmail.com
 
-📧 Email: brentsantschi@gmail.com
-
-� Final Words
+####� Final Words:
 All my projects have some explanations on what it is about!
 
 Thanks for stopping by! Feel free to reach out 🖖
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4Y2VtZ3BqY2Z6Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1Z2J1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif
-
-(Yes, that's a dancing robot. Because why not?)
-
-⚡ Made with ❤️, ☕, and probably too much enthusiasm.
-
-(Last updated: August 2023)
+####⚡ Made with ❤️, and probably too much enthusiasm.
