@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=clion,debian,linux,neovim,powershell,ubuntu,vim,visualstudio,vscode,windows&perline=10)](https://skillicons.dev)
 
 ### Extra:
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,discord,gmail,instagram,github,git,&perline=10)](https://skillicons.dev)
 
 ---
 
