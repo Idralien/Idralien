@@ -47,10 +47,6 @@ Thanks for stopping by! Feel free to reach out 🖖
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= Idralien&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username= Idralien&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= Idralien&theme=gruvbox" alt="GitHub Contribution Graph"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idralien&layout=compact&theme=tokyonight)
 
 ---
